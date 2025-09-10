@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Widget</string>
+    <string name="battery_widget_percent_placeholder">--%</string>
+    <string name="battery_widget_remaining_placeholder">Remaining: —</string>
+    <string name="battery_widget_cycles_placeholder">Cycles: N/A</string>
 </resources>
